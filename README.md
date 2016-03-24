@@ -1,0 +1,2 @@
+# DexClassoader
+DexClassLoader是一个类加载器，可以用来从.jar和.apk文件中加载class。可以用来加载执行没用和应用程序一起安装的那部分代码。
